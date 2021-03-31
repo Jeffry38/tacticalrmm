@@ -250,5 +250,21 @@
         "description": "Rename computer. First parameter will be new PC name. 2nd parameter if yes will auto-reboot machine",
         "shell": "powershell",
         "category": "TRMM (Win):Other"
+    },
+    {
+        "filename": "Finish updates and restart.ps1",
+        "submittedBy": "https://github.com/tremor021",
+        "name": "Finish updates and restart",
+        "description": "Finish installing updates and restart PC",
+        "shell": "powershell",
+        "category": "TRMM (Win):Other"
+    },
+    {
+        "filename": "Finish updates and shutdown.ps1",
+        "submittedBy": "https://github.com/tremor021",
+        "name": "Finish updates and shutdown",
+        "description": "Finish installing updates and shutdown PC",
+        "shell": "powershell",
+        "category": "TRMM (Win):Other"
     }
 ]
